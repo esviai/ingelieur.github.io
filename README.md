@@ -12,7 +12,7 @@ In the meantime, Ingelieur can only be found in:
 
 FUTURE PLANS
 -----
-In the future I'll utilize the site for to document the learning process and my development towards the ultimate goal. 
+In the future I'll utilize the site for documenting the learning process and my development towards the ultimate goal. 
 
 FIND ME SOMEWHERE ELSE
 -----
